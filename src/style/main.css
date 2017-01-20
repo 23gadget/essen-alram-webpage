@@ -12,11 +12,11 @@ h1 {
 }
 
 #navigation {
-    background-color: #ff99cc;
+    background-color: #ffccff;
 }
 
 #navigation li {
-    background-color: #ff6699;
+    background-color: #ff99cc;
     border-radius: 5px;
     color: white;
     display: inline-block;
