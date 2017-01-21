@@ -1,5 +1,6 @@
 body {
-  font-family: 'Duru Sans', serif;
+    background-color: #ffccff;
+    font-family: 'Duru Sans', serif;
 }
 
 h1 {
@@ -9,10 +10,6 @@ h1 {
     font-size: 5em;
     font-family: 'Cinzel', serif;
     text-align: center;
-}
-
-#navigation {
-    background-color: #ffccff;
 }
 
 #navigation li {
